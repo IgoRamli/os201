@@ -1,0 +1,26 @@
+Script started on Thu Jun  4 18:51:33 2020
+]0;inigo.ramli@badak: ~/newGit/os201/UASinigo.ramli@badak:~/newGit/os201/UAS$ PA[KS1="$ "
+$ echo $H[KGitHubUser"[K
+IgoRamli
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200604-185203-8b54-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200604-185222-abea-UAS/> date
+Thu Jun  4 18:52:32 WIB 2020
+200604-185232-ae7f-UAS/> gpg2 --list=[K-kes[Kys
+/home/fasilkom/mahasiswa/i/inigo.ramli/.gnupg/pubring.gpg
+---------------------------------------------------------
+pub   4096R/926BD74D 2020-06-04
+uid       [ultimate] Inigo Ramli (My ultimate key for UAS OS) <igoramli.igo@gmail.com>
+sub   4096R/30CE4B51 2020-06-04
+
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+200604-185240-e146-UAS/> exit
+exit
+
+Script done on Thu Jun  4 18:52:46 2020
