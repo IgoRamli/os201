@@ -63,7 +63,7 @@ do
 	# Check timestamp is sequential
 	TIMESTAMP=$(echo "$i" | cut -c 1-13);
 	SEQ=$(is_a_after_b $TIMESTAMP $LAST);
-	LAST=$TIMESTAMP
+	LAST=$TIMESTAMP;
 
 	# Check SHA1SUM is good
 	WD=$(echo "$i" | cut -c 20- | sed 's/\/>//');
