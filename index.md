@@ -5,4 +5,4 @@ Halaman ini dibuat oleh Inigo Ramli dengan bantuan Bapak RMS serta teman-teman F
 
 Web ini dibuat untuk kelancaran mata kulian Sistem Operasi, serta untuk penilaian UAS mata kuliah tersebut.
 
-[Ayo belajar Sistem Operasi!](igoramli.github.io/os201/URLs)
+[Ayo belajar Sistem Operasi!](/URLs)
