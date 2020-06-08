@@ -11,3 +11,5 @@ Berikut kumpulan URL yang dapat diakses untuk lebih memahami seputar Sistem Info
 [Blog Bapak Rahmat M. Samik Ibrahim](http://rahmatm.samik-ibrahim.vlsm.org/)
 
 [Slide Pendukung Buku Operating System Concepts](https://www.os-book.com/OS10/slide-dir/)
+
+[GitHub mata kuliah OS](https://github.com/UI-FASILKOM-OS/SistemOperasi)
